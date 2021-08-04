@@ -1,0 +1,6 @@
+salesforce.SharingRules my_custome_obj__c {
+  fullName = "my_custome_obj__c"
+  _parent = [
+    salesforce.my_custome_obj__c,
+  ]
+}
